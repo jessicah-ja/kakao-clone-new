@@ -15,7 +15,7 @@
 }
 
 .chats-body {
-    background-image: url("../images/chatBg.png");
+    background-image: url("images/chatBg.png");
     min-height: 200vh;
     padding: 10px 0px;
     padding-top: 100px;
